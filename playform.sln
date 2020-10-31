@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playform", "playform\playform.csproj", "{DB4CCCF4-8D82-4825-88A6-D85592625E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Debug|x86.ActiveCfg = Debug|x86
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Debug|x86.Build.0 = Debug|x86
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Release|x86.ActiveCfg = Release|x86
+		{DB4CCCF4-8D82-4825-88A6-D85592625E94}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872D98A8-DC21-47F2-8666-4311B6FFFA74}
+	EndGlobalSection
+EndGlobal
